@@ -6,7 +6,7 @@ namespace appp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("pozdrav od Danijela Drazetica!");
+            Console.WriteLine("pozdrav od Danijela Drazetica. 328948923475!");
         }
     }
 }
